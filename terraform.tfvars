@@ -1,0 +1,9 @@
+project_name         = "lab-infra"
+aws_region           = "eu-central-1"
+cloudflare_api_token = "pRyUW2NRcfexGOZrU3PRzPW3Jznkt9hsk_qZDk8x"
+cloudflare_zone_id   = "05ed70f04c7800ed0589f7698d854327"
+domain_name          = "obama67.dev"
+subdomain_prefix     = "aws"
+instance_type        = "t3.micro"
+ssh_public_key_path  = ""
+ssh_allowed_cidrs    = ["0.0.0.0/0"]
